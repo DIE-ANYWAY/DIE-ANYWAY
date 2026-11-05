@@ -4,7 +4,7 @@
 
 <p align="center"> I'm so fr*cking (fricking) sorry for making this</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ecmk3ohnd7cifbtmwtfzdsr2nq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ecmk3ohnd7cifbtmwtfzdsr2nq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=e00010&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center"><img width="280" height="380" alt="tumblr_603c3775fb1d83c56b4ff856bb6087fb_587e8680_2048" src="https://github.com/user-attachments/assets/0357ff0a-d153-4791-8ce2-1442b561c2ec" /> <img width="460" height="360" alt="tumblr_6f658056355a025d8c399d3e1d911aa8_5a82c496_2048" src="https://github.com/user-attachments/assets/384bde84-4174-4089-82e9-d2d4858d0093" />
 
