@@ -16,7 +16,7 @@ drawing by my papi [@Asphyxixate](https://github.com/Asphyxixate) and the wiki p
 <img width="280" alt="image" src="https://github.com/user-attachments/assets/7d72eeed-c527-46c3-9669-a9dc6864d9c8" /> <img width="280" alt="image" src="https://github.com/user-attachments/assets/d859f836-ebb4-41a6-a067-2ffa7a10c62d" />
 
  
-  Oc on the left belongs to me and the oc on the right belongs to my wife</details></div>
+  The first belongs to me and the second oc belongs to my wife</details></div>
 
 
 
